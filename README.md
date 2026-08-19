@@ -95,10 +95,4 @@ engine.runAndWait()
 - Save speech as an audio file
 - Create a simple GUI using Tkinter
 
-## 📄 License
 
-This project is licensed under the MIT License.
-
----
-
-⭐ If you found this project helpful, don't forget to star the repository!
