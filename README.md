@@ -2,7 +2,7 @@
 
 A simple Text-to-Speech (TTS) application built with Python that converts user-entered text into spoken audio using the `pyttsx3` library. The application works offline and provides a quick way to hear text read aloud.
 
-## 📌 Features
+##  Features
 
 - 📝 Accepts text input from the user
 - 🔊 Converts text into speech
@@ -10,7 +10,7 @@ A simple Text-to-Speech (TTS) application built with Python that converts user-e
 - ⚡ Simple and lightweight
 - 🐍 Built with Python
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - pyttsx3
