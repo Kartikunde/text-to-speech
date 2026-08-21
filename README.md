@@ -71,11 +71,11 @@ Enter the text: Welcome to Python programming.
 **Output:**
 
 ```
-🔊 The system speaks:
+ The system speaks:
 "Welcome to Python programming."
 ```
 
-## 📜 Code
+##  Code
 
 ```python
 import pyttsx3
@@ -87,7 +87,7 @@ engine.say(text)
 engine.runAndWait()
 ```
 
-## 🎯 Future Improvements
+##  Future Improvements
 
 - Add voice selection (Male/Female)
 - Control speech rate
