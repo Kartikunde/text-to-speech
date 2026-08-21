@@ -44,7 +44,7 @@ cd text-to-speech
 pip install pyttsx3
 ```
 
-## ▶️ Usage
+## Usage
 
 Run the program:
 
@@ -60,7 +60,7 @@ Enter the text:
 
 The program will read the entered text aloud through your computer's speakers.
 
-## 💻 Example
+##  Example
 
 **Input:**
 
